@@ -45,16 +45,4 @@ used for this challenge.
 - Your code must run without any errors.
 
 - Sample Output of the last class (starting at number: 20):
--...
--20 Buzz
--21 Fibonacci!
--22
--23
--24 Fizz
--25 Buzz
--26
--27 Fizz
--28
--29
--30 FizzBuzz
--...
+..., 20 Buzz, 21 Fibonacci!, 22, 23, 24 Fizz, 25 Buzz, 26, 27 Fizz, 28, 29, 30 FizzBuzz,...
