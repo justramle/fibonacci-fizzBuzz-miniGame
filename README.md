@@ -1,6 +1,6 @@
 ## General Description:
 
-**The game of FizzBuzz is a counting game where numbers are counted from 1 to 100. If a number is divisible by 3,
+**Creating the game named FizzBuzz. It is a counting game where numbers are counted from 1 to 100. If a number is divisible by 3,
 say the number + “ Fizz”. If a number is divisible by 5, say the number + “ Buzz”. If a number is divisible by both 3
 and 5, say the number + “ FizzBuzz”. Otherwise, just say the number. But in Fibonacci’s FizzBuzz, there is an
 additional challenge. If a number is contained in the Fibonacci sequence, then say the number + “ Fibonacci!”. In
