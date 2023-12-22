@@ -1,6 +1,4 @@
-//Tram Le
-//Student Application Developer Programming Challenge
-//Fibonacci’s FizzBuzz
+//Fibonacciï¿½s FizzBuzz
 
 #include <iostream>
 #include <string>
